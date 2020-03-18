@@ -20,20 +20,5 @@ app.listen(PORT, function () {
 });
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 "mongodb://localhost/mongoHeadlines";
 mongoose.connect(MONGODB_URI);
